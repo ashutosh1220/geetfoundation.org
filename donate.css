@@ -1,0 +1,123 @@
+#donate_container{
+    background-image: linear-gradient(45deg, rgba(242, 221, 221, 0.603), rgba(212, 239, 253, 0.542));
+}
+
+.form{
+    height: 500px;
+    width: 450px;
+    background-color: red;
+    position: relative;
+    top: 70px;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: -1px 1px 5px rgba(128, 128, 128, 0.522);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.logo{
+    height: 70px;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid gray;
+    position: relative;
+
+    top: 20px;
+}
+
+.field{
+    position: relative;
+    top: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.field input{
+    width: 60%;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    font-size: 30px;
+    transition: all 0.3s ease-in-out;
+}
+
+.field input:focus{
+    width: 60%;
+    border-bottom: 1px solid gray;
+    outline: none;
+    height: 60px;
+
+}
+
+#submitbtn{
+    height: 35px;
+    width: 70%;
+    position: relative;
+    top: 100px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.426);
+    background-image: linear-gradient(45deg, rgba(255, 157, 0, 0.637), rgba(0, 0, 255, 0.581));
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+}
+
+#submitbtn:focus{
+    outline: none;
+    box-shadow: 0.5px 0.5px 5px rgba(22, 155, 73, 0.756);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
